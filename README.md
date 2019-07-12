@@ -1,5 +1,5 @@
 # Deep-Learning-Contrastive-Center-Loss-Transfer-Learning-Food-Classification-
-This repository contains the ipnyb for a project on deep learning visual classification of food categories.
+This repository contains the ipynb for a project on deep learning visual classification of food categories.
 
 ## 1.0 General Overview
 The Food59 dataset contains approximately 30,000 images from 59 classes, and the goal was to design an approach to improve the performance of the baseline model trained using ResNet18. Based on the results obtained from the base model, the top 1 validation accuracy was at 0.889, while the top 5 validation accuracy was at 0.983.
